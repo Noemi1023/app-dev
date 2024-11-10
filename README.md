@@ -7,7 +7,7 @@ My first repository.
 **Favorite Series/Movies**
 > Most of the genres that I personally like are horror and fantasy-romance.
 My favorite entertainment platform is [Netflix](https://www.netflix.com/ph-en/).
-![This is the logo of netflix!](/Users/STI-NOVA/Downloads/netflix.png "Logo Netflix")
+![This is the logo of netflix!]("C:/Users/Noemi/Downloads/netflix logo.png" "Logo Netflix")
 
 ---
 
