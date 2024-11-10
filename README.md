@@ -7,7 +7,6 @@ My first repository.
 **Favorite Series/Movies**
 > Most of the genres that I personally like are horror and fantasy-romance.
 My favorite entertainment platform is [Netflix](https://www.netflix.com/ph-en/).
-![This is the logo of netflix!]("C:/Users/Noemi/Downloads/netflix logo.png" "Logo Netflix")
 
 ---
 
@@ -16,11 +15,13 @@ My favorite entertainment platform is [Netflix](https://www.netflix.com/ph-en/).
 1. Conjuring
 2. The Nun
 3. Annabelle
-`MOVIES`
-
+   
 ### Series Collection
 > Sometimes I get too addicted when there are so many *plot twists*.
 - Stranger Things
 - Lucifer
 - Goblin
-`SERIES`
+
+---
+
+`SERIES` and `MOVIES`
